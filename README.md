@@ -1,11 +1,3 @@
-<!--
-  Replace ./assets/banner.png with your custom banner image path.
-  Example: create /assets/banner.png in this repo and commit it.
--->
-
-<p align="center">
-  <img src="./assets/banner.png" alt="Bridger Dean | Cybersecurity & Homelab Enthusiast" />
-</p>
 
 ---
 
