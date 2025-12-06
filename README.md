@@ -1,18 +1,15 @@
-
----
-
 # 👋 About Me
 
-- 🛡️ Cybersecurity student at **Boise State**, graduating **Winter 2028**
-- 🖥️ Building and managing **Minecraft servers** (vanilla + modded) using Docker & Proxmox
-- 🏠 Expanding my **home lab** with VLANs, OPNSense firewalling, monitoring tools, and media services
-- 🔐 Interested in cybersecurity, ethical hacking, cloud tech, enterprise networking, and automation
-- 🧪 Always experimenting with new tools, mods, hardware, and self-hosted services
-- 🎮 Gamer, outdoors lover, and tech enthusiast
+-  Cybersecurity student at **Boise State**, graduating **Winter 2028**
+-  Building and managing **Minecraft servers** (vanilla + modded) using Docker & Proxmox
+-  Expanding my **home lab** with VLANs, OPNSense firewalling, monitoring tools, and media services
+-  Interested in cybersecurity, ethical hacking, cloud tech, enterprise networking, and automation
+-  Always experimenting with new tools, mods, hardware, and self-hosted services
+-  Gamer, outdoors lover, and tech enthusiast
 
 ---
 
-# 🌐 Socials
+#  Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-171821?style=for-the-badge&logo=facebook&logoColor=1DA1F2)](https://facebook.com/bridgerdean47)
 [![Instagram](https://img.shields.io/badge/Instagram-171821?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/bridgerdean47)
@@ -21,7 +18,7 @@
 
 ---
 
-# 🧰 Tech Stack
+#  Tech Stack
 
 ### Languages & Tools  
 ![C++](https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=c%2B%2B&logoColor=6296CC)
@@ -55,7 +52,7 @@
 
 ---
 
-# 🧪 Tools in My Home Lab
+#  Tools in My Home Lab
 
 - **Proxmox Virtualization Server** hosting Linux + Windows VMs  
 - **OPNsense Firewall** with VLANs, IDS/IPS, and traffic shaping  
@@ -68,7 +65,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bridgerdean47&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -81,7 +78,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bridgerdean47&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
@@ -89,7 +86,7 @@
 
 ---
 
-# 💬 Dev Quote of the Day
+#  Dev Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
