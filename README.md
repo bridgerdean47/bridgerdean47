@@ -68,11 +68,6 @@
 #  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bridgerdean47&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bridgerdean47&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=bridgerdean47&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
