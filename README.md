@@ -1,4 +1,4 @@
-# 👋 About Me
+#  About Me
 
 -  Cybersecurity student at **Boise State**, graduating **Winter 2028**
 -  Building and managing **Minecraft servers** (vanilla + modded) using Docker & Proxmox
