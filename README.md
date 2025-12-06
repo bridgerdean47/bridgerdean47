@@ -1,9 +1,9 @@
 # 👋 About Me
 
-- 🛡️ Cybersecurity student at **BYU–Idaho**, graduating **Summer 2026**
+- 🛡️ Cybersecurity student at **Boise State**, graduating **Winter 2028**
 - 🖥️ Building and managing **Minecraft servers** (vanilla + modded) using Docker & Proxmox
 - 🏠 Expanding my **home lab** with VLANs, OPNSense firewalling, monitoring tools, and media services
-- 🔐 Interested in cybersecurity, cloud tech, enterprise networking, and automation
+- 🔐 Interested in cybersecurity, ethical hacking, cloud tech, enterprise networking, and automation
 - 🧪 Always experimenting with new tools, mods, hardware, and self-hosted services
 - 🎮 Gamer, outdoors lover, and tech enthusiast
 
